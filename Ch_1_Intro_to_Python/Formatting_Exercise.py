@@ -8,7 +8,7 @@ stringy = "There will be a nuimber following tis sentence: {}".format(R)
 #4. print the string and then the value by using string formatting:
 print(stringy)
 #5. Convert the numerical data into a different format:
-R = str(R)
+R = str(R) 
 #6. pring the new data form:
 print(R)
 
