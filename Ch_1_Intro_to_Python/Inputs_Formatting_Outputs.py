@@ -4,7 +4,7 @@
 
 
 user_name = "Helen"
-favorite_food = input("What is ()'s favorite food?: ").format("user_name")
+favorite_food = input('what is {}\'s favorite food?'.format(user_name))
 
 #Write a prgoram that does the following:
 #1. Prompts the user for answers to several different questions
